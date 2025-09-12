@@ -1,0 +1,40 @@
+*{
+     margin: 10px;
+}
+a:hover {
+    color:rgb(255, 0, 179);
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+    gap: 20px;
+    display: flex;
+}
+
+li {
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav{
+    display: flex;
+    position: fixed;
+    top: 10px;
+}
+
+a{
+    color: green;
+}
+
+a:visited {
+    color:  aquamarine;
+
+}
+img{
+    padding: 20px;
+    background-color: rgb(226, 43, 202);
+    border-radius: 20px;
+    border: 10px solid #202020;
+}
